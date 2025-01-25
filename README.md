@@ -1,1 +1,1 @@
-# Project-on-HLLC-Riemann-solver
+# Project on HLLC Riemann solver
